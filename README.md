@@ -14,10 +14,23 @@
  
  🌱 I’m currently learning **React, Deep Learning, NLP, AWS**
 
-💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Java... or anything**
 
 
  </div>
+
+<h2 align="center"> 🧑🏻‍🎓Profile🧑🏻‍🎓 </h2>
+
+<div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyasachdeva04/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsachdeva_be22@thapar.edu)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/riiiwtff)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/riyasachdeva04/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://diamond-cotija-c62.notion.site/Riya-s-Projects-2e7aa65ed8c74e4d8885c4fd21317376)
+
+</div>
+
  
 <div align="center"> 
   <a href="mailto:agam.bedi20@gmail.com">
@@ -31,27 +44,17 @@
   </a>
 </div>
 
- <hr/>
+ 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git"/>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
